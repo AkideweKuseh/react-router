@@ -2,12 +2,12 @@
 
 This project demonstrates the implementation of React Router in a React application. It showcases various routing features including:
 
-- Basic routing with multiple pages
-- Dynamic route parameters
-- Nested routes
-- Protected routes with authentication
-- Custom navigation components
-- Route transitions and animations
+- Set up React Router in a React application.
+- Implement nested routes and layouts.
+- Handle dynamic route parameters.
+- Utilize loaders and actions for data fetching and mutations.
+- Manage navigation and redirects.
+- Handle errors with error elements.
 
 ## Project Overview
 
