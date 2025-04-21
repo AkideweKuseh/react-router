@@ -1,4 +1,4 @@
-# Getting Started with React Router s
+# Getting Started with React Router
 
 This project demonstrates the implementation of React Router in a React application. It showcases various routing features including:
 
