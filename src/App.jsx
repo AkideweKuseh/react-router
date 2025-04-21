@@ -22,6 +22,7 @@ import CareerDetails, {
   careerDetailsLoader,
 } from "./Pages/Careers/CareerDetails";
 import CareersError from "./Pages/Careers/CareersError";
+import Login from "./Pages/Help/Login";
 function App() {
   const router = createBrowserRouter(
     createRoutesFromElements(
@@ -45,6 +46,7 @@ function App() {
           />
         </Route>
         <Route path="*" element={<NotFound />} />
+        <Route path="login" element={<Login />} />
       </Route>
     )
   );
